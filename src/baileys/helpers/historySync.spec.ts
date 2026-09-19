@@ -415,11 +415,11 @@ describe("what the groups in a dump are called", () => {
   it("names every group the chat records carry a subject for", () => {
     expect(
       groupNames([
-        { id: "120363400000000001@g.us", name: "Café Exemplo + fazer.ai" },
+        { id: "120363400000000001@g.us", name: "Café Exemplo + Hablas" },
         { id: "120363422502290697@g.us", name: "Obra da casa" },
       ]),
     ).toEqual({
-      "120363400000000001@g.us": "Café Exemplo + fazer.ai",
+      "120363400000000001@g.us": "Café Exemplo + Hablas",
       "120363422502290697@g.us": "Obra da casa",
     });
   });

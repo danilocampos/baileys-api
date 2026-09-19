@@ -2,7 +2,7 @@ version: "3"
 
 services:
   baileys-api:
-    image: "ghcr.io/fazer-ai/baileys-api:latest"
+    image: "ghcr.io/danilocampos/baileys-api:v1.0.0-hablas.1"
     pull_policy: always
     volumes:
       - "storage:/app/storage"

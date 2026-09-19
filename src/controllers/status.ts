@@ -33,7 +33,7 @@ const statusController = new Elysia({
                           url: {
                             type: "string",
                             example:
-                              "https://github.com/fazer-ai/baileys-api.git",
+                              "https://github.com/danilocampos/baileys-api.git",
                           },
                         },
                       },

@@ -1,8 +1,8 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "@fazer-ai/baileys-api",
-    "description": "Baileys API for WhatsApp. [See on GitHub](https://github.com/fazer-ai/baileys-api.git)",
+    "title": "@hablas-chat/baileys-api",
+    "description": "Baileys API for WhatsApp. [See on GitHub](https://github.com/danilocampos/baileys-api.git)",
     "version": "1.0.0"
   },
   "servers": [
@@ -105,7 +105,7 @@
                             },
                             "url": {
                               "type": "string",
-                              "example": "https://github.com/fazer-ai/baileys-api.git"
+                              "example": "https://github.com/danilocampos/baileys-api.git"
                             }
                           }
                         }

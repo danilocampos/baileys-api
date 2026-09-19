@@ -1,11 +1,11 @@
 {
-  "name": "@fazer-ai/baileys-api",
+  "name": "@hablas-chat/baileys-api",
   "version": "1.0.0",
   "description": "Baileys API for WhatsApp.",
   "author": "gabrieljablonski",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fazer-ai/baileys-api.git"
+    "url": "https://github.com/danilocampos/baileys-api.git"
   },
   "license": "MIT",
   "module": "src/index.ts",
